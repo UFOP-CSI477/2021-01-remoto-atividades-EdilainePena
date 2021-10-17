@@ -18,11 +18,11 @@
 ### 2. Escopo
 
   Este projeto terá as seguintes funcionalidades:
-  
-  1- Adicionar séries 
-  2- Editar séries
-  3- Excluir séries
-  4- Exibir lista de séries adicionadas
+
+  1. Adicionar séries 
+  2. Editar séries
+  3. Excluir séries
+  4. Exibir lista de séries adicionadas
 
 <!-- Apresentar restrições de funcionalidades e de escopo. -->
 ### 3. Restrições
